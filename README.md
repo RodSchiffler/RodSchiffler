@@ -1,15 +1,23 @@
 <h1 align="center">Olá 👋, eu sou Rodolpho Schiffler</h1>
 <h3 align="center">Business Intelligence | Data Analytics</h3>
 
-- Atualmente estou trabalhando **Python, BI, SQL e Machine Learning**
+- Atualmente estou trabalhando: **Python, BI, SQL e Machine Learning**
 
-- Todos os meus projetos [https://github.com/RodSchiffler](https://github.com/RodSchiffler)
+- Todos os meus projetos: [https://github.com/RodSchiffler](https://github.com/RodSchiffler)
 
-- Me pergunte sobre **Microsoft Power BI, SQL e Python**
+- Me pergunte sobre: **Microsoft Power BI, SQL e Python**
 
-- 📫Você me acha **Rodolpho.schiffler@aiesec.net**
+- 📫Você me acha: **Rodolpho.schiffler@aiesec.net**
 
-- Sobre as minhas experiências [https://www.linkedin.com/in/rodolpho-schiffler-a05093130/](https://www.linkedin.com/in/rodolpho-schiffler-a05093130/)
+- Sobre as minhas experiências: Me chamo Rodolpho, tenho 28 anos e sou recém formado em comunicação social pela UFRJ. A minha jornada de trabalho com tecnologia e mais especificamente, na área de dados, vem desde lá de trás quando eu ainda achava que tudo era parte do marketing. Depois de me formar na faculdade, procurei me capacitar ao máximo com cursos e especilizações nas áreas de tecnologia, programação e ciência de dados. Em paralelo à isso, claro, cursos de marketing, copywriting, SEO, gatilhos mentais e etc.
+
+Tive o prazer de ajudar a construir todo o plano de comunicação e análise dados de uma ONG especilizada em arte e cultura local, no interior do Peru. Desenvolvi metas a partir dos dados coletados de suas redes sociais e KPI's, além de fazer o acompanhamento estratégio quanto ao posicionamento da marca e as novas tendências do mercado.
+
+Na faculdade, fui coordenador do festival Educação Sem Temer, onde ajudei a desenvolver estratégias de administração, arrecadação e logística para a projeção do evento. Com o intuito de consolidar a nossa pauta, desenvolvi estratégias de comunicação em mídia paga e relatórios de integração entre o público e a marca.
+
+A minha história é repleta de mudanças e adaptações devido a minha família se mudar bastante. Morei no Amazonas, na Indonésia, no nordeste e agora estou no Rio. Isso me fez ser uma pessoa educada e comunicativa, além de ter atitude e a meta de sempre ajudar a somar e a construir novos relacionamentos.
+
+Big data, Microsoft Power BI, experiência de usuário, marketing e todo o pipeline que os dados percorrem, desde a sua fonte até o dashboard interativo, pode contar comigo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
