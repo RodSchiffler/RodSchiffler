@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Rodolpho Schiffler</h1>
-<h3 align="center">Apaixonado por ciência e análise de dados no mundo digital</h3>
+<h3 align="center">Business Intelligence | Data Analytics</h3>
 
-- Atualmente estou trabalhando **Python e Machine Learning**
+- Atualmente estou trabalhando **Python, BI, SQL e Machine Learning**
 
 - Todos os meus projetos [https://github.com/RodSchiffler](https://github.com/RodSchiffler)
 
